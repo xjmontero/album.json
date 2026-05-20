@@ -1,0 +1,22 @@
+{
+  "album": "My Photos",
+  "thumbnail": "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo1.bmp",
+  "settings": {
+    "delay_seconds": 8,
+    "shuffle": false,
+    "loop": true
+  },
+  "images": [
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo1.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo2.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo3.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo4.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo5.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo6.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo7.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo8.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo9.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo10.bmp",
+    "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/photos/photo11.bmp"
+  ]
+}

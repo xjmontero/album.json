@@ -2,7 +2,7 @@
   "album": "My Photos",
   "thumbnail": "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo1.bmp",
   "settings": {
-    "delay_seconds": 8,
+    "delay_seconds": 15,
     "shuffle": false,
     "loop": true
   },
